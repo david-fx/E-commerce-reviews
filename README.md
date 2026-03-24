@@ -10,6 +10,5 @@ Results :   Audit Dataset Women’s E-Commerce Clothing Reviews
 
 Apply fixes to data
 
-<img width="623" height="128" alt="image" src="https://github.com/user-attachments/assets/bf29924d-f0e8-4e35-b5bd-ca465feaa53f" />
-
+<img width="795" height="138" alt="image" src="https://github.com/user-attachments/assets/827dd022-f81a-447e-b38b-e16da358f968" />
 
