@@ -1,0 +1,8 @@
+
+Results : Hasil Audit Dataset Women’s E-Commerce Clothing Reviews
+
+Missing Values Title → 3,810 baris kosong. Review Text → 845 baris kosong. Division Name → 14 baris kosong. Department Name → 14 baris kosong. Class Name → 14 baris kosong.
+
+Duplicates Jumlah duplikat → 0.
+
+Format Errors Rating → semua valid (1–5). Age → semua valid (>0).
