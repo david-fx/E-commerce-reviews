@@ -12,6 +12,7 @@ Apply fixes to dataset
 
 <img width="795" height="167" alt="image" src="https://github.com/user-attachments/assets/70302446-a35a-49d1-a6c3-1eda7fe3be84" />
 
+
 Simple Data Visualization and Insight
 
 RATING DISTRIBUTION
