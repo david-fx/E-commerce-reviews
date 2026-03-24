@@ -15,6 +15,7 @@ Apply fixes to dataset
 Simple Data Visualization and Insight
 
 RATING DISTRIBUTION
+
 <img width="800" height="600" alt="rating_distribution" src="https://github.com/user-attachments/assets/9605dc2c-7b34-4e4a-ad99-1df750e9c995" />
 
 TOP 10 PRODUCTS BY POSITIVE FEEDBACK
