@@ -9,10 +9,7 @@ Results :   Audit Dataset Women’s E-Commerce Clothing Reviews
 
 
 Apply fixes to data
+
 <img width="623" height="128" alt="image" src="https://github.com/user-attachments/assets/bf29924d-f0e8-4e35-b5bd-ca465feaa53f" />
 
-df['Title'] = df['Title'].fillna("No Title")
-df = df.dropna(subset=['Review Text'])
-df['Division Name'] = df['Division Name'].fillna("Unknown")
-df['Department Name'] = df['Department Name'].fillna("Unknown")
-df['Class Name'] = df['Class Name'].fillna("Unknown")
+
