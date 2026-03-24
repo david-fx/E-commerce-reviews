@@ -5,16 +5,10 @@ Data source from https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clo
 >>> %Run 'data audit.py'
 Results :   Hasil Audit Dataset Women’s E-Commerce Clothing Reviews
 
-1. Missing Values
-Title → 3,810 baris kosong.
-Review Text → 845 baris kosong.
-Division Name → 14 baris kosong.
-Department Name → 14 baris kosong.
-Class Name → 14 baris kosong.
-
-2. Duplicates
-Jumlah duplikat → 0.
-
-3. Format Errors
-Rating → semua valid (1–5).
-Age → semua valid (>0).
+Issue Type	                 Count	  Example	  Fix Applied
+Missing Title	               3,810	  NULL	    Isi placeholder “No Title”
+Missing Review Text          845	    NULL	    Drop rows (tidak usable)
+Missing Division/Dept/Class	 14 	    NULL	    Isi dengan “Unknown”
+Duplicates	0	–	Tidak ada tindakan
+Invalid Rating	0	–	Tidak ada tindakan
+Invalid Age	0	–	Tidak ada tindakan
